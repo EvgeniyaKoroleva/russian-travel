@@ -4,6 +4,7 @@
     max-width: 1184px;
     grid-gap: 16px;
     margin: 0 48px 92px 48px;
+    align-self: stretch;
 }
 
 @media screen and (max-width: 1279px) {
