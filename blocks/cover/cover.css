@@ -1,6 +1,5 @@
 .cover {
     margin: 0 48px 0 48px;
-    align-self: stretch;
 }
 
 @media screen and (max-width: 1279px) {
